@@ -1,0 +1,21 @@
+body{
+    background-color:beige;
+}
+
+img {
+  width: 400px;
+  border-radius: 100px;
+}
+
+.username {
+  font-weight: bold;
+}
+
+.links {
+   font-size: 30px;
+}
+
+h1 {
+    text-align: center;
+    font-size: x-large;
+}
