@@ -2,20 +2,45 @@ body{
     background-color:beige;
 }
 
-img {
+a{
+  text-decoration: none;
+  font-size: 30px;
+  color: blue;
+}
+p{
+  text-align: center;
+}
+
+div{
+  display: flex;
+  justify-content: space-between;
+}
+
+#bev{
   width: 400px;
   border-radius: 100px;
-}
-
-.username {
-  font-weight: bold;
-}
-
-.links {
-   font-size: 30px;
 }
 
 h1 {
     text-align: center;
     font-size: x-large;
+}
+
+#descr{
+  font-size: large;
+}
+
+#left{
+  text-align: left;
+  margin-left: 20px;
+}
+
+#center{
+  text-align: center;
+  margin-right: -25px;
+}
+
+#right{
+    text-align: right;
+    margin-right: 20px;
 }
